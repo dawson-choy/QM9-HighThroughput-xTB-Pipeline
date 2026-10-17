@@ -1,7 +1,7 @@
 # QM9-HighThroughput-xTB-Pipeline
 
-[![Python Version](https://shields.io)](https://python.org)
-[![Platform](https://shields.io)](https://github.com)
+![Python Version](https://shields.io)
+![Platform](https://shields.io)
 
 An end-to-end, fault-tolerant data curation and high-throughput computational chemistry pipeline designed to extract, standardize, and execute semi-empirical quantum chemical property calculations (via `xTB`) for **133,885 organic molecules** from the benchmark QM9 dataset.
 
